@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">UT_4.1_Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tv1f" />
+    <string name="bt1f">boton</string>
 </resources>
