@@ -3,4 +3,5 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="tv1f" />
     <string name="bt1f">boton</string>
+    <string name="bt1p">Ver Fragment</string>
 </resources>

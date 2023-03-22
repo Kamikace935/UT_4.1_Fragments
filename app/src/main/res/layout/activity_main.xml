@@ -21,8 +21,9 @@
         android:layout_height="65dp"
         android:layout_marginStart="109dp"
         android:layout_marginTop="184dp"
-        android:onClick="ver_fragmento"
-        android:text="@string/bt1f"
+        android:onClick="verFragmento"
+        android:text="@string/bt1p"
+        android:textSize="15sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
